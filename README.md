@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg)](https://github.com/honkita) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Link.svg)](https://elitelu.com) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg)](https://www.linkedin.com/in/elitelu/)
+[![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_GitHub.svg)](https://github.com/honkita) [![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Link.svg)](https://elitelu.com) [![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_LinkedIn.svg)](https://www.linkedin.com/in/elitelu/)
 
 # Pixel Buttons for README
 
@@ -35,9 +35,9 @@ Note that the button is an \<img\> tag wrapped in an \<a\> tag. Below are some r
 
 | Image                                                                           | Name           |
 | ------------------------------------------------------------------------------- | -------------- |
-| ![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg)   | Pixel_GitHub   |
-| ![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Link.svg)     | Pixel_Link     |
-| ![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg) | Pixel_LinkedIn |
+| ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_GitHub.svg)   | Pixel_GitHub   |
+| ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Link.svg)     | Pixel_Link     |
+| ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_LinkedIn.svg) | Pixel_LinkedIn |
 
 ## Badges
 
@@ -61,7 +61,7 @@ Note that the default height of a badge is 32px x 32px. To change the width/heig
 
 | Image                                                                               | Name               |
 | ----------------------------------------------------------------------------------- | ------------------ |
-| ![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Maintained.svg)   | Pixel_Maintained   |
-| ![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Unmaintained.svg) | Pixel_Unmaintained |
-| ![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_WIP.svg)          | Pixel_WIP          |
-| ![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_On_Hold.svg)      | Pixel_On_Hold      |
+| ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Maintained.svg)   | Pixel_Maintained   |
+| ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Unmaintained.svg) | Pixel_Unmaintained |
+| ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_WIP.svg)          | Pixel_WIP          |
+| ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_On_Hold.svg)      | Pixel_On_Hold      |
