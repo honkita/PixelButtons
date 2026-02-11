@@ -4,6 +4,8 @@
 
 ![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Maintained.svg)
 
+---
+
 ## Buttons
 
 Replace the **NAME_OF_BUTTON** with the button name and **LINK** that when the button is pressed, redirects to the site/location.
