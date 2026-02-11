@@ -31,6 +31,8 @@ Note that the button is an \<img\> tag wrapped in an \<a\> tag. Below are some r
 | target   | On click, does the link open a new tab or stay on the same tag. "\_blank" for new tab and "" for same tab. |
 | width    | Width of the button.                                                                                       |
 
+---
+
 ## Button Types
 
 | Image                                                                           | Name           |
@@ -38,6 +40,8 @@ Note that the button is an \<img\> tag wrapped in an \<a\> tag. Below are some r
 | ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_GitHub.svg)   | Pixel_GitHub   |
 | ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Link.svg)     | Pixel_Link     |
 | ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_LinkedIn.svg) | Pixel_LinkedIn |
+
+---
 
 ## Badges
 
@@ -57,6 +61,8 @@ Note that the default height of a badge is 32px x 32px. To change the width/heig
   <img title="NAME_OF_BADGE" src="https://raw.githubusercontent.com/honkita/MD-Links/main/NAME_OF_BADGE.svg">
 ```
 
+---
+
 ## Label Types
 
 | Image                                                                               | Name               |
@@ -65,3 +71,5 @@ Note that the default height of a badge is 32px x 32px. To change the width/heig
 | ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Unmaintained.svg) | Pixel_Unmaintained |
 | ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_WIP.svg)          | Pixel_WIP          |
 | ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_On_Hold.svg)      | Pixel_On_Hold      |
+
+---
