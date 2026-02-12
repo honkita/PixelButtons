@@ -14,13 +14,13 @@ Replace the **NAME_OF_BUTTON** with the button name and **LINK** that when the b
 
 Note that the default height of a button is 32px x 32px. To change the width/height, refer to the HTML code.
 
-```
+```md
 [![](https://raw.githubusercontent.com/honkita/PixelButtons/main/NAME_OF_BUTTON.svg)](https://github.com/honkita)
 ```
 
 ### HTML
 
-```
+```html
   <a href=LINK>
       <img title="NAME_OF_BUTTON" src="https://raw.githubusercontent.com/honkita/MD-Links/main/NAME_OF_BUTTON.svg">
   </a>
@@ -53,13 +53,13 @@ Replace the **NAME_OF_BADGE** with the label name.
 
 Note that the default height of a badge is 32px x 32px. To change the width/height, refer to the HTML code.
 
-```
+```md
 [![](https://raw.githubusercontent.com/honkita/PixelButtons/main/NAME_OF_BADGE.svg)]
 ```
 
 ### HTML
 
-```
+```html
   <img title="NAME_OF_BADGE" src="https://raw.githubusercontent.com/honkita/MD-Links/main/NAME_OF_BADGE.svg">
 ```
 
